@@ -11,6 +11,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    var tester = 5
     
     @IBOutlet weak var characterImageOutlet: UIImageView!
     
